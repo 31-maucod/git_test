@@ -1,1 +1,1 @@
-This is mauandres's first git proyect!
+This is mauandres's first git project!
